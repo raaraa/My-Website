@@ -8,13 +8,13 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Random Forest model to predict stock price movement."
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "stocks.jpg"
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "http://rpubs.com/raaraa/399811"
 
 # Does the project detail page use math formatting?
 math = false

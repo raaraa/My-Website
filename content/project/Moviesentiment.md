@@ -8,10 +8,10 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Movie rating app that uses sentiment analysis to analyze tweets and give a movie’s sentiment."
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "sentiment.png"
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://movie-tweet-sentiment.herokuapp.com"

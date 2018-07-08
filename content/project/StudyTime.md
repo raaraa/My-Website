@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Stay on track app. Sets reminders and notifications for tasks"
 
 # Optional image to display on homepage.
 image_preview = ""
