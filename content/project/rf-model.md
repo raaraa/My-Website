@@ -14,7 +14,7 @@ summary = "Random Forest model to predict stock price movement."
 image_preview = "stocks.jpg"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://rpubs.com/raaraa/399811"
+external_link = "http://rpubs.com/raaraa/412512"
 
 # Does the project detail page use math formatting?
 math = false
